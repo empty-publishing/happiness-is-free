@@ -4,6 +4,8 @@ This is auto generated, and everything above the title is unaltered. Anything ad
 
 [i. Prologue](Misc/i-Prologue.md)
 
+[i. Introduction](Misc/ii-Introduction.md)
+
 [1. Acknowledge Missed Opportunities](Chapters/1-Acknowledge-Missed-Opportunities.md)
 
 [2. Change The World](Chapters/2-Change-The-World.md)

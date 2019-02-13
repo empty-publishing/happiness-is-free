@@ -13,3 +13,7 @@ I used to decide not to pick up a bit of litter in the street because other peop
 Just the acknowledgement alone is enough, if you do it often, it’ll change the way you do things. It changes the way you think, respond, and behave.
 
 Remember: When new thinking habits form: more opportunities are taken, more good is created, more gratitude is received, more happiness is experienced.
+
+Previous [i. Introduction](Misc/ii-Introduction.md)
+
+Next [2. Change The World](Chapters/2-Change-The-World.md)

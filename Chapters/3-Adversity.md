@@ -9,3 +9,7 @@ But I don't really need to tell you how to deal with success, or that you should
 This is because we not defined by our easy moments - we're defined by how we respond to adversity.
 
 Remember: When things go wrong, how you act is who you are.
+
+Previous [2. Change The World](Chapters/2-Change-The-World.md)
+
+Next [4. Know Your Problems](Chapters/4-Know-Your-Problems.md)

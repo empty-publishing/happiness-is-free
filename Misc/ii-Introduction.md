@@ -15,3 +15,7 @@ I cannot provide similar robustness of experimental evidence - so I cannot, then
 The philosophies and strategies espouds herein, are an attempt to invert the process of learning through meditation. Spending many hours in self-reflection will often produce numerous outward behavioural changes and changes to the thinking patterns you habituate. Perhaps it’s a reasonable hypothesis that tackling those thinking patterns will create new values that better serve you, or that developing new outward behaviours can facilitate desirable inner changes.
 
 In any case, you can use this book as either a companion to, a preparation for, or an alternative to meditation.
+
+Previous [i. Prologue](Misc/i-Prologue.md)
+
+Next [1. Acknowledge Missed Opportunities](Chapters/1-Acknowledge-Missed-Opportunities.md)

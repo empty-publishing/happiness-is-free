@@ -11,3 +11,7 @@ The smiles you create. The relief that you offer. The times you’ve been there 
 Even if you create just a tiny difference - make it count. Build on it. Learn from it. Encourage it. Let it grow. Before you know it you’ll see what a wonderful place this planet is, and you’ll find endless opportunities to make a difference.
 
 Remember: Even if you only change your world, you’ve made a difference to the rest of it.
+
+Previous [1. Acknowledge Missed Opportunities](Chapters/1-Acknowledge-Missed-Opportunities.md)
+
+Next [3. Adversity](Chapters/3-Adversity.md)

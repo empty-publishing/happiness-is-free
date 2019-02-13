@@ -36,7 +36,7 @@ const updatePageNav = ({current, prev, next}) => {
   console.log('updatePageNav', {current, prev, next})
   const page = fs.readFileSync(current, 'utf8')
 
-  let updatedPage = page.replace(nextorprevRegex, '')
+  let updatedPage = page.replace(nextorprevRegex, '').trim()
   if (prev) {
     console.log('prev find', page.match(prevRegex));
     updatedPage = `${updatedPage}\n\nPrevious ${prev.title}`

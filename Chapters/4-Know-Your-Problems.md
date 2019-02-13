@@ -11,3 +11,7 @@ Notice that one person’s problem, is another person’s fact - and vice versa.
 The distinction between problems and facts is an important one, because living with facts and living with choices create very different experiences. If you get them mixed up, if you don’t understand what problems you have, or what facts you’re dealing with - you become lost and unable to respond in a healthy way.
 
 Remember: If it’s not got a solution, it’s not a problem, it’s a fact.
+
+Previous [3. Adversity](Chapters/3-Adversity.md)
+
+Next [5. Own Some Problems](Chapters/5-Own-Some-Problems.md)

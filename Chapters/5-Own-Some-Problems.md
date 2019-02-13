@@ -10,4 +10,4 @@ A good way to solve problems is to just start owning them. Start taking ownershi
 
 Remember: If nobody owns a problem, it's not getting fixed. It's also free for the taking; I dare you to pick it up and feel good about making a difference.
 
-Previous [4. Know Your Problems](Chapters/4-Know-Your-Problems.md)
+Previous [4. Know Your Problems](/Chapters/4-Know-Your-Problems.md)

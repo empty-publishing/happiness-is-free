@@ -20,7 +20,7 @@ const toc = []
 const makeTitle = ({n, t, p}) => {
   const rel = path.relative('../', p)
   const title = t.split('-').join(' ')
-  return `[${n}. ${title}](${rel})`
+  return `[${n}. ${title}](/${rel})`
 }
 
 const makeItem = ({n, t, p}) => {

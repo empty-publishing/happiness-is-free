@@ -26,4 +26,4 @@ To the former I’d like to give thanks to the serendipity, the badgering friend
 
 To the latter I’d like to say, “welcome”. I’m so very grateful for the honour of being selected as part of your conscious journey. While I can’t possibly know how we’ll reciprocate, or whether our journey will join beyond this medium - I can tell you it’s my very genuine wish that you find success in your journey.
 
-Next [i. Introduction](Misc/ii-Introduction.md)
+Next [i. Introduction](/Misc/ii-Introduction.md)

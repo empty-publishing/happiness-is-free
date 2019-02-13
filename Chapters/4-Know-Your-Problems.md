@@ -12,6 +12,6 @@ The distinction between problems and facts is an important one, because living w
 
 Remember: If it’s not got a solution, it’s not a problem, it’s a fact.
 
-Previous [3. Adversity](Chapters/3-Adversity.md)
+Previous [3. Adversity](/Chapters/3-Adversity.md)
 
-Next [5. Own Some Problems](Chapters/5-Own-Some-Problems.md)
+Next [5. Own Some Problems](/Chapters/5-Own-Some-Problems.md)

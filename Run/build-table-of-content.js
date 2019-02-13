@@ -39,7 +39,7 @@ const updatePageNav = ({current, prev, next}) => {
   let updatedPage = page.replace(nextorprevRegex, '')
   if (prev) {
     console.log('prev find', page.match(prevRegex));
-    updatedPage = `${updatedPage}\n\nPrevious: ${prev.title}`
+    updatedPage = `${updatedPage}\n\nPrevious ${prev.title}`
   }
 
   if (next) {

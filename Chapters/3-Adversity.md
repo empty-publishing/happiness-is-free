@@ -10,6 +10,6 @@ This is because we not defined by our easy moments - we're defined by how we res
 
 Remember: When things go wrong, how you act is who you are.
 
-Previous [2. Change The World](/Chapters/2-Change-The-World.md)
-
 Next [4. Know Your Problems](/Chapters/4-Know-Your-Problems.md)
+
+Previous [2. Change The World](/Chapters/2-Change-The-World.md)

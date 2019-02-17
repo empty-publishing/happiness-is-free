@@ -16,6 +16,6 @@ The philosophies and strategies espouds herein, are an attempt to invert the pro
 
 In any case, you can use this book as either a companion to, a preparation for, or an alternative to meditation.
 
-Previous [i. Prologue](/Misc/i-Prologue.md)
-
 Next [1. Acknowledge Missed Opportunities](/Chapters/1-Acknowledge-Missed-Opportunities.md)
+
+Previous [i. Prologue](/Misc/i-Prologue.md)

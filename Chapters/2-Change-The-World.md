@@ -12,6 +12,6 @@ Even if you create just a tiny difference - make it count. Build on it. Learn fr
 
 Remember: Even if you only change your world, you’ve made a difference to the rest of it.
 
-Previous [1. Acknowledge Missed Opportunities](/Chapters/1-Acknowledge-Missed-Opportunities.md)
-
 Next [3. Adversity](/Chapters/3-Adversity.md)
+
+Previous [1. Acknowledge Missed Opportunities](/Chapters/1-Acknowledge-Missed-Opportunities.md)

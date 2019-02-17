@@ -14,6 +14,6 @@ Just the acknowledgement alone is enough, if you do it often, it’ll change the
 
 Remember: When new thinking habits form: more opportunities are taken, more good is created, more gratitude is received, more happiness is experienced.
 
-Previous [i. Introduction](/Misc/ii-Introduction.md)
-
 Next [2. Change The World](/Chapters/2-Change-The-World.md)
+
+Previous [i. Introduction](/Misc/ii-Introduction.md)

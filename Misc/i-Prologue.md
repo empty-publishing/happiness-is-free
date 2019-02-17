@@ -4,7 +4,7 @@ This book is one of a pair of books, almost identical in every way. They differ 
 
 ## Happiness Is Free
 
-This title belongs to my intended and somewhat utopian daydream of sharing my work for free. It is just that - I believe that everyone has access to, opportunity for, and a right to happiness. Charging people for happiness, just seems quite odd. I love sharing happiness, and it’s this sharing that is at the core of my own positive experiences.
+This title belongs to my intended and somewhat utopian daydream of sharing my work for free. It is just that - I believe that everyone has access to, the opportunity for, and a right to happiness. Charging people for happiness, just seems quite odd. I love sharing happiness, and it’s this sharing that is at the core of my own positive experiences.
 
 It’s available in PDF, and in other digital formats, for free. Gratis. Not a single penny.
 

@@ -1,6 +1,6 @@
 # Acknowledge Missed Opportunities
 
-I hold a door open for about a hundred people every school day. Each day I pick up about 20 to 30 bits of litter from around the school and the local community. I seek out at least one person each morning, and each afternoon and sincerely ask them if they are okay. I say at least one genuine apology, and at least one honest thank you. I'm always looking for smiles to create, frowns to change, opportunities for genuine impact, and moments to just be silly.
+When working in a school I found a lot of opportunities. I held a door open for about a hundred people every day. Each day I picked up about 20 to 30 bits of litter from around the school and the local community. I sought out at least one person each morning, and each afternoon, and sincerely ask them if they are okay. I said at least one genuine apology, and at least one honest thank you. I always looked for smiles to create, frowns to change, opportunities for genuine impact, and moments to just be silly.
 
 I'm never 100% successful in these things, but they are habits that I've formed. The trick to building such a portfolio of good stuff to do - is acknowledging missed opportunities.
 
